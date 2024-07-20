@@ -8,15 +8,25 @@
 
 ### Prep Work
 
-* Look inside the data directory. There are a few json files provided for you. Familiarize yourself with these files. Feel free to add more.
+* Look inside the data directory. 
+* There are a few json files provided for you. 
+* Familiarize yourself with these files. Feel free to add more.
 
 ### Part A
 * Create a program called *json_helper.py*
-* Define a function called *read_json*. Given a string representing a file path to a json file, this function should open said file and convert its contens into a json object.
+* Define a function called *read_json*. 
+* Given a string representing...
+* a file path to a json file, 
+* this function should open said file 
+* and convert its contents into a json object.
 * The json object should be returned.
 
 ### Part B
-* Define a function called *read_all_json_files*. Given a string representing a path to a directory, this function should read all of the json files and return a list containing all of the json objects.
+* Define a function called *read_all_json_files*. 
+* Given a string representing a path to a directory, 
+* this function should read all of the json files 
+* and return a list containing...
+* all of the json objects.
 * Make sure to incorporate the work from part A.
 
 ### Part C
