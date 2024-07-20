@@ -1,0 +1,8 @@
+{
+    "name": "Iron Man",
+    "neutral_special": "Repulsor Blast",
+    "side_special": "Unibeam",
+    "up_special": "Rocket Boost",
+    "down_special": "Armor Lock",
+    "final_smash": "Iron Legion"
+}

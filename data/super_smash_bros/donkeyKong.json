@@ -1,0 +1,8 @@
+{
+    "name": "Donkey Kong",
+    "neutral_special": "Giant Punch",
+    "side_special": "Hand Slap",
+    "up_special": "Spinning Kong",
+    "down_special": "Cargo Throw",
+    "final_smash": "Konga Beat"
+}

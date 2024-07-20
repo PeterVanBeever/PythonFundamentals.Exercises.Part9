@@ -1,0 +1,8 @@
+{
+    "name": "Pikachu",
+    "neutral_special": "Thunderbolt",
+    "side_special": "Quick Attack",
+    "up_special": "Volt Tackle",
+    "down_special": "Iron Tail",
+    "final_smash": "Volt Tackle"
+}
